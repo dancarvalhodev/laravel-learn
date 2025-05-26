@@ -1,0 +1,9 @@
+.env
+
+data/mysql/*
+!data/mysql/.gitkeep
+
+www/*
+!www/server/
+
+.DS_Store
