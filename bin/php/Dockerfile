@@ -1,1 +1,1 @@
-FROM dancarvalhodev/php:8.3
+FROM dancarvalhodev/php:8.4
